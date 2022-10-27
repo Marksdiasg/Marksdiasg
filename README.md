@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marksdiasg
 - 👀 estou interessado em gamedev
-- 🌱 estou aprendendo no momento c#, javascript e unity 3D
+- 🌱 estou aprendendo no momento c# e unity 3D
 - 📫 como pode me contatar: markdias9@gmail.com
 
 <!---
